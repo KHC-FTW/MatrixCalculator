@@ -1,3 +1,3 @@
 # MatrixCalculator
 
-Just a simple program to test my basic C++ skills.
+Just a simple program to practise my basic C++ skills.
